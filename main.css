@@ -1,10 +1,12 @@
 .carousel-text {
     background-color: rgba(0,0,0, 0.5);
+    font-size: small;
 }
 
 p {
     font-size: larger;
 }
+
 
 .line {
     width: 80%;
